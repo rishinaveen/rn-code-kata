@@ -1,0 +1,11 @@
+Driver Dan
+Driver Alex
+Driver Bob
+Driver Jacob
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Trip Alex 12:01 13:16 42.0
+Trip Jacob 14:00 14:20 1.6
+Trip Jacob 15:00 15:30 10.75
+Trip Jacob 16:00 16:15 26
+Trip Bob 16:00 16:15 15.7
